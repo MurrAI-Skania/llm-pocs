@@ -1,0 +1,1 @@
+## Here we put the individual pages for the streamlit app
